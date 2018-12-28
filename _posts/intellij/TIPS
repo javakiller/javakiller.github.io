@@ -1,0 +1,7 @@
+
+## SVN 계정 정보 초기화 방법
+
+1. Open the Settings / Preferences Dialog by pressing Ctrl+Alt+S or by choosing File.
+2. Settings for Windows and Linux or IntelliJ IDEA.
+3. Preferences for macOS, and click Version Control.
+4. Open the Subversion settings page and click the Clear Auth Cache button.
